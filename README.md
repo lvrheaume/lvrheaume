@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... do you know how to build a web app? please let me know! 
 - 📫 How to reach me ... feel free to email or message, I'm happy to connect. 
 - 😄 Pronouns: ... She/They
-- ⚡ Fun fact: ... I have three guinea pigs, a BFA in 3d Animation and Film, and I used to teach bellydance in college. 
+- ⚡ Fun fact: ... I have three guinea pigs, a BFA in 3d Animation and Film, and I want to build things that help people. 
 
 <!---
 lvrheaume/lvrheaume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
